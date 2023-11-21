@@ -163,4 +163,4 @@ def delete_task(index):
     
     del tasks[index - 1]
 
-    return news;
+    return tasks
